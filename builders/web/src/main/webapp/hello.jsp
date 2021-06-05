@@ -1,2 +1,0 @@
-${requestScope.hello}
-Hello!
