@@ -20,7 +20,5 @@ public class BuildersUtilTest {
             e.printStackTrace();
         }
         assertNotNull(properties.getProperty("test_hello"));
-
     }
-
 }
