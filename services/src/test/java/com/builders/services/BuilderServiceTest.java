@@ -21,5 +21,6 @@ public class BuilderServiceTest {
             e.printStackTrace();
         }
         assertNotNull(properties.getProperty("test_hello"));
+
     }
 }
