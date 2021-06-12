@@ -22,5 +22,4 @@ public class BuilderServiceTest {
         }
         assertNotNull(properties.getProperty("test_hello"));
     }
-
 }
